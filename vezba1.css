@@ -1,0 +1,69 @@
+.navbar-header img {
+    margin: 10px;
+}
+.bg-img {
+    background-image: url(img/mountains.jpg);
+    height: 500px;
+}
+.bg-overlay {
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.btn {
+    background-color: transparent;
+    border: 1px solid black !important;
+}
+.description-text {
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+}
+.input-bg {
+    height: 85px;
+    background-color: black;
+    padding-top: 25px;
+}
+.btn-color {
+    color: white;
+    background-color: rgb(40, 40, 182);
+}
+.box {
+    border: 1px solid blue;
+    border-radius: 5px;
+    /* margin: 10px; */
+}
+.be-line {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.Why {
+    text-align: center;
+    background-color: rgb(223, 227, 238);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.naslov-che {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.hr {
+    border: 1px solid rgb(168, 167, 167);
+}
+.Authors {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.box1 {
+    text-align: center;
+    padding-top: 10px;
+    border: 1px solid rgb(187, 187, 187);
+    border-radius: 5px;
+}
+.img-circle {
+    margin-top: -40px;
+}
+.opis {
+    color: rgb(175, 174, 174);
+}
